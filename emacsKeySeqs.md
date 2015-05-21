@@ -4,6 +4,7 @@
 - `C-x C-f` open a file
 - `C-x C-v` switch currently displayed buffer to another file
 - `C-x C-b` switch to another buffer from the buffer list 
+- `C-x C-s` Save the current buffer to file
 - `C-f` Forward one space
 - `C-b` Backward one space
 - `C-p` Previous line
@@ -38,6 +39,8 @@
 - `C-c C-c` toggle a checkbox
 - `* ` lines starting with one or more asterisks are headings
 - `- [ ]` checkboxes 
+- `Shift-Tab` Cycle Expand&Compress all headings
+- `Ctrl-Tab` Cycle Expand&Compress current heading (where point is)
 
 ## Searching
 - `C-s` Search forward
